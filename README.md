@@ -1,7 +1,7 @@
 # todo-list-app
 
 ## Antony Software Solution 
-<b style="color:#a6bb12;>To-Do List Application</b>
+<b style="color:#a6bb12;">To-Do List Application</b>
 
 
 ### Technology Used
