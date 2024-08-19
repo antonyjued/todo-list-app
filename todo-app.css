@@ -1,0 +1,65 @@
+.Myapp{
+  width:80%;
+  max-width:540px;
+  height:auto;
+  background-color: #ddd;
+  padding:20px;
+  overflow-x: hidden;
+  margin:0 auto;
+  
+}
+.Myapp div.input-field{
+  width:100%;
+  height:40px;
+  border-radius: 50px;
+  background-color: #f1f1f1;
+  display: flex;
+  justify-content: space-between;
+}
+.Myapp div h4{
+  color:#eb7953;
+  text-align: center;
+}
+
+.Myapp div.input-field #userData{
+  flex:1;
+  width:320px;
+  background: transparent;
+  border:none;outline:none;
+  overflow: hidden;
+  padding-left:10px;
+}
+.Myapp button{
+  width:60px;
+  border-radius: 50px;
+  border:none;outline:none;
+  background-color: orangered;
+}
+#listContainer{
+  list-style: none;
+  line-height:30px;
+  
+}
+#listContainer li{
+  color:#333;
+  text-transform: capitalize;
+  position: relative;
+}
+#listContainer li:active{
+  text-decoration: line-through;
+}
+#listContainer li span{
+  width:25px;
+  height:25px;
+  padding: 0;
+  position: absolute;
+  right:0;
+  top:5px;
+  text-align: center;
+  line-height: 25px;
+}
+#listContainer li span:hover{
+  
+  background-color: #fff;
+  border-radius:50px;
+}

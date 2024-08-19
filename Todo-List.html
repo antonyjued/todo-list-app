@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="preload" href="DestroyEarthBB.woff2" as="font" type="font/woff2" crossorigin>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- <link rel="stylesheet" href="css/style.css"> -->
+  <title>Simple Webpage</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="../js/todo-app.js"></script>
+  <script>
+    var output = document.getElementById("fstream");
+    const stream = require('fs');
+    stream.readFile('test.txt', 'UTF-8', (err, data)=> {
+      if (err) {
+        console.log(err);
+      }
+      output.innerHTML = data;
+    });
+  </script>
+
+  <link rel="stylesheet" href="../css/todo-app.css">
+</head>
+
+<body onload="start()">
+  <div>
+    <h1>Welcome to my website</h1>
+  </div>
+  <!-- To-do Application -->
+  <div class="Myapp">
+    <div>
+      <h4>To-Do-App</h4>
+    </div>
+    <div class="input-field">
+      <input type="text" name="" id="userData" placeholder="Enter Data">
+      <button onclick="addList();">Add</button>
+    </div>
+    <div>
+      <ul id="listContainer">
+        <!--   <li>Helo</li> -->
+      </ul>
+    </div>
+  </div>
+</body>
+
+</html>
