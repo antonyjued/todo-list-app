@@ -4,7 +4,7 @@
 
 ![Languages](https://img.shields.io/github/languages/top/antonyjued/todo-list-app?style=flat&logo=HTML5)
 ![Languages](https://img.shields.io/github/languages/top/antonyjued/todo-list-app?style=flat&logo=javascript)
-![Languages](https://img.shields.io/github/languages/top/antonyjued/todo-list-app?style=flat&logo=css)
+![Languages](https://img.shields.io/github/languages/top/antonyjued/todo-list-app?style=flat&logo=saas)
 
 ![Frameworks](https://img.shields.io/badge/Frameworks-BasicJavascript-green)
 ![Tools](https://img.shields.io/badge/Tools-Acode-blue)
