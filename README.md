@@ -2,13 +2,19 @@
 
 <div align="center">
 
-![Languages](https://img.shields.io/github/languages/top/antonyjued/todo-list-app?style=flat&logo=Javascript)
-![Frameworks](https://img.shields.io/badge/Frameworks-springboot-green)
-![Tools](https://img.shields.io/badge/Tools-VSCode-blue)
+![Languages](https://img.shields.io/github/languages/top/antonyjued/todo-list-app?style=flat&logo=html)
+![Languages](https://img.shields.io/github/languages/top/antonyjued/todo-list-app?style=flat&logo=javascript)
+![Languages](https://img.shields.io/github/languages/top/antonyjued/todo-list-app?style=flat&logo=css)
+
+![Frameworks](https://img.shields.io/badge/Frameworks-BasicJavascript-green)
+![Tools](https://img.shields.io/badge/Tools-Acode-blue)
+
+
+</div>
+
 ## Antony Software Solution 
 <b style="color:#a8eb12;">To-Do List Application</b>
 
-</div>
 
 ## 📈 GitHub Stats
 
