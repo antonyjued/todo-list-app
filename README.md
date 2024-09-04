@@ -8,6 +8,11 @@
 <b style="color:#a8eb12;">To-Do List Application</b>
 
 
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonyjued&show_icons=true&hide_title=true&count_private=false&hide=prs&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antonyjued&layout=compact&theme=radical)
+
 ### Technology Used
 1. HTML
 2. CSS
