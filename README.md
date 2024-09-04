@@ -18,7 +18,7 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonyjued&show_icons=true&hide_title=true&count_private=false&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonyjued&show_icons=true&hide_title=true&count_private=false&hide=prs&theme=algolia)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antonyjued&layout=compact&theme=algolia)
 
 ### Technology Used
