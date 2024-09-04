@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Languages](https://img.shields.io/github/languages/top/antonyjued/todo-list-app?style=flat&logo=html)
+![Languages](https://img.shields.io/github/languages/top/antonyjued/todo-list-app?style=flat&logo=HTML5)
 ![Languages](https://img.shields.io/github/languages/top/antonyjued/todo-list-app?style=flat&logo=javascript)
 ![Languages](https://img.shields.io/github/languages/top/antonyjued/todo-list-app?style=flat&logo=css)
 
