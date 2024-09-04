@@ -1,5 +1,9 @@
 # todo-list-app
 
+
+![Languages](https://img.shields.io/github/languages/top/antonyjued/todo-list-app?style=flat&logo=Javascript)
+![Frameworks](https://img.shields.io/badge/Frameworks-springboot-green)
+![Tools](https://img.shields.io/badge/Tools-VSCode-blue)
 ## Antony Software Solution 
 <b style="color:#a8eb12;">To-Do List Application</b>
 
