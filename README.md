@@ -1,6 +1,6 @@
 # todo-list-app
 
-![Demo](assets/demo.gif)
+![Demo](Demo.gif)
 
 <div align="center">
 
