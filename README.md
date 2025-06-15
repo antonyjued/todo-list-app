@@ -1,5 +1,7 @@
 # todo-list-app
 
+![Demo](assets/demo.gif)
+
 <div align="center">
 
 ![Languages](https://img.shields.io/github/languages/top/antonyjued/todo-list-app?style=flat&logo=HTML5)
